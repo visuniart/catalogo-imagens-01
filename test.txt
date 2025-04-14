@@ -70,49 +70,49 @@ imagens: 001.jpg,002.jpg,003.jpg,004.jpg,005.jpg,006.jpg,007.jpg,008.jpg,009.jpg
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/01 - BRIGHT WHITE
+nome: Pantone | 01 - BRIGHT WHITE
 grupo: Baby
 imagens: 1001.jpg,1002.jpg,1003.jpg,1004.jpg,1005.jpg,1006.jpg,1007.jpg,1008.jpg,1009.jpg,1010.jpg,1011.jpg,1012.jpg,1013.jpg,1014.jpg,1015.jpg,1016.jpg,1017.jpg,1018.jpg,1019.jpg,1020.jpg,1021.jpg,1022.jpg,1023.jpg,1024.jpg,1025.jpg,1026.jpg,1027.jpg,1028.jpg,1029.jpg,1030.jpg,1031.jpg,1032.jpg,1033.jpg,1034.jpg,1035.jpg,1036.jpg,1037.jpg,1038.jpg,1039.jpg,1040.jpg,1041.jpg,1042.jpg,1043.jpg,1044.jpg,1045.jpg,1046.jpg,1047.jpg,1048.jpg,1049.jpg,1050.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/02 - LILAC SNOW
+nome: Pantone | 02 - LILAC SNOW
 grupo: Baby
 imagens: 1001-B.jpg,1002-B.jpg,1003-B.jpg,1004-B.jpg,1005-B.jpg,1006-B.jpg,1007-B.jpg,1008-B.jpg,1009-B.jpg,1010-B.jpg,1011-B.jpg,1012-B.jpg,1013-B.jpg,1014-B.jpg,1015-B.jpg,1016-B.jpg,1017-B.jpg,1018-B.jpg,1019-B.jpg,1020-B.jpg,1021-B.jpg,1022-B.jpg,1023-B.jpg,1024-B.jpg,1025-B.jpg,1026-B.jpg,1027-B.jpg,1028-B.jpg,1029-B.jpg,1030-B.jpg,1031-B.jpg,1032-B.jpg,1033-B.jpg,1034-B.jpg,1035-B.jpg,1036-B.jpg,1037-B.jpg,1038-B.jpg,1039-B.jpg,1040-B.jpg,1041-B.jpg,1042-B.jpg,1043-B.jpg,1044-B.jpg,1045-B.jpg,1046-B.jpg,1047-B.jpg,1048-B.jpg,1049-B.jpg,1050-B.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/03 - BAY
+nome: Pantone | 03 - BAY
 grupo: Baby
 imagens: 1001-C.jpg,1002-C.jpg,1003-C.jpg,1004-C.jpg,1005-C.jpg,1006-C.jpg,1007-C.jpg,1008-C.jpg,1009-C.jpg,1010-C.jpg,1011-C.jpg,1012-C.jpg,1013-C.jpg,1014-C.jpg,1015-C.jpg,1016-C.jpg,1017-C.jpg,1018-C.jpg,1019-C.jpg,1020-C.jpg,1021-C.jpg,1022-C.jpg,1023-C.jpg,1024-C.jpg,1025-C.jpg,1026-C.jpg,1027-C.jpg,1028-C.jpg,1029-C.jpg,1030-C.jpg,1031-C.jpg,1032-C.jpg,1033-C.jpg,1034-C.jpg,1035-C.jpg,1036-C.jpg,1037-C.jpg,1038-C.jpg,1039-C.jpg,1040-C.jpg,1041-C.jpg,1042-C.jpg,1043-C.jpg,1044-C.jpg,1045-C.jpg,1046-C.jpg,1047-C.jpg,1048-C.jpg,1049-C.jpg,1050-C.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/04 - LEAD CRYSTAL
+nome: Pantone | 04 - LEAD CRYSTAL
 grupo: Baby
 imagens: 1001-D.jpg,1002-D.jpg,1003-D.jpg,1004-D.jpg,1005-D.jpg,1006-D.jpg,1007-D.jpg,1008-D.jpg,1009-D.jpg,1010-D.jpg,1011-D.jpg,1012-D.jpg,1013-D.jpg,1014-D.jpg,1015-D.jpg,1016-D.jpg,1017-D.jpg,1018-D.jpg,1019-D.jpg,1020-D.jpg,1021-D.jpg,1022-D.jpg,1023-D.jpg,1024-D.jpg,1025-D.jpg,1026-D.jpg,1027-D.jpg,1028-D.jpg,1029-D.jpg,1030-D.jpg,1031-D.jpg,1032-D.jpg,1033-D.jpg,1034-D.jpg,1035-D.jpg,1036-D.jpg,1037-D.jpg,1038-D.jpg,1039-D.jpg,1040-D.jpg,1041-D.jpg,1042-D.jpg,1043-D.jpg,1044-D.jpg,1045-D.jpg,1046-D.jpg,1047-D.jpg,1048-D.jpg,1049-D.jpg,1050-D.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/05 - TRANSPARENT YELLOW
+nome: Pantone | 05 - TRANSPARENT YELLOW
 grupo: Baby
 imagens: 1001-E.jpg,1002-E.jpg,1003-E.jpg,1004-E.jpg,1005-E.jpg,1006-E.jpg,1007-E.jpg,1008-E.jpg,1009-E.jpg,1010-E.jpg,1011-E.jpg,1012-E.jpg,1013-E.jpg,1014-E.jpg,1015-E.jpg,1016-E.jpg,1017-E.jpg,1018-E.jpg,1019-E.jpg,1020-E.jpg,1021-E.jpg,1022-E.jpg,1023-E.jpg,1024-E.jpg,1025-E.jpg,1026-E.jpg,1027-E.jpg,1028-E.jpg,1029-E.jpg,1030-E.jpg,1031-E.jpg,1032-E.jpg,1033-E.jpg,1034-E.jpg,1035-E.jpg,1036-E.jpg,1037-E.jpg,1038-E.jpg,1039-E.jpg,1040-E.jpg,1041-E.jpg,1042-E.jpg,1043-E.jpg,1044-E.jpg,1045-E.jpg,1046-E.jpg,1047-E.jpg,1048-E.jpg,1049-E.jpg,1050-E.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/06 - PEARL
+nome: Pantone | 06 - PEARL
 grupo: Baby
 imagens: 1001-F.jpg,1002-F.jpg,1003-F.jpg,1004-F.jpg,1005-F.jpg,1006-F.jpg,1007-F.jpg,1008-F.jpg,1009-F.jpg,1010-F.jpg,1011-F.jpg,1012-F.jpg,1013-F.jpg,1014-F.jpg,1015-F.jpg,1016-F.jpg,1017-F.jpg,1018-F.jpg,1019-F.jpg,1020-F.jpg,1021-F.jpg,1022-F.jpg,1023-F.jpg,1024-F.jpg,1025-F.jpg,1026-F.jpg,1027-F.jpg,1028-F.jpg,1029-F.jpg,1030-F.jpg,1031-F.jpg,1032-F.jpg,1033-F.jpg,1034-F.jpg,1035-F.jpg,1036-F.jpg,1037-F.jpg,1038-F.jpg,1039-F.jpg,1040-F.jpg,1041-F.jpg,1042-F.jpg,1043-F.jpg,1044-F.jpg,1045-F.jpg,1046-F.jpg,1047-F.jpg,1048-F.jpg,1049-F.jpg,1050-F.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/07 - NANTUCKET BREEZE
+nome: Pantone | 07 - NANTUCKET BREEZE
 grupo: Baby
 imagens: 1001-G.jpg,1002-G.jpg,1003-G.jpg,1004-G.jpg,1005-G.jpg,1006-G.jpg,1007-G.jpg,1008-G.jpg,1009-G.jpg,1010-G.jpg,1011-G.jpg,1012-G.jpg,1013-G.jpg,1014-G.jpg,1015-G.jpg,1016-G.jpg,1017-G.jpg,1018-G.jpg,1019-G.jpg,1020-G.jpg,1021-G.jpg,1022-G.jpg,1023-G.jpg,1024-G.jpg,1025-G.jpg,1026-G.jpg,1027-G.jpg,1028-G.jpg,1029-G.jpg,1030-G.jpg,1031-G.jpg,1032-G.jpg,1033-G.jpg,1034-G.jpg,1035-G.jpg,1036-G.jpg,1037-G.jpg,1038-G.jpg,1039-G.jpg,1040-G.jpg,1041-G.jpg,1042-G.jpg,1043-G.jpg,1044-G.jpg,1045-G.jpg,1046-G.jpg,1047-G.jpg,1048-G.jpg,1049-G.jpg,1050-G.jpg,
 repositorio: catalogo-imagens-01
 
 #subcategoria
-nome: Pantone/08 - NIMBUS CLOUD
+nome: Pantone | 08 - NIMBUS CLOUD
 grupo: Baby
 imagens: 1001-H.jpg,1002-H.jpg,1003-H.jpg,1004-H.jpg,1005-H.jpg,1006-H.jpg,1007-H.jpg,1008-H.jpg,1009-H.jpg,1010-H.jpg,1011-H.jpg,1012-H.jpg,1013-H.jpg,1014-H.jpg,1015-H.jpg,1016-H.jpg,1017-H.jpg,1018-H.jpg,1019-H.jpg,1020-H.jpg,1021-H.jpg,1022-H.jpg,1023-H.jpg,1024-H.jpg,1025-H.jpg,1026-H.jpg,1027-H.jpg,1028-H.jpg,1029-H.jpg,1030-H.jpg,1031-H.jpg,1032-H.jpg,1033-H.jpg,1034-H.jpg,1035-H.jpg,1036-H.jpg,1037-H.jpg,1038-H.jpg,1039-H.jpg,1040-H.jpg,1041-H.jpg,1042-H.jpg,1043-H.jpg,1044-H.jpg,1045-H.jpg,1046-H.jpg,1047-H.jpg,1048-H.jpg,1049-H.jpg,1050-H.jpg,
 repositorio: catalogo-imagens-01
