@@ -8,32 +8,31 @@ grupo: Baby
 imagens:001.jpg,002.jpg,003.jpg,004.jpg,005.jpg,006.jpg,007.jpg,008.jpg,009.jpg,010.jpg,011.jpg,012.jpg,013.jpg,014.jpg,015.jpg,016.jpg,017.jpg,018.jpg,019.jpg,020.jpg,021.jpg,022.jpg,023.jpg,024.jpg,025.jpg,026.jpg,027.jpg,028.jpg,029.jpg,030.jpg,031.jpg,032.jpg,033.jpg,034.jpg,035.jpg,036.jpg,037.jpg,038.jpg,039.jpg,040.jpg,041.jpg,042.jpg,043.jpg,044.jpg,045.jpg,046.jpg,047.jpg,048.jpg,049.jpg,050.jpg,051.jpg,052.jpg,053.jpg,054.jpg,055.jpg,056.jpg,057.jpg,058.jpg,059.jpg,060.jpg,061.jpg,062.jpg,063.jpg,064.jpg,065.jpg,066.jpg,067.jpg,068.jpg,069.jpg,070.jpg,071.jpg,072.jpg,073.jpg,074.jpg,075.jpg,076.jpg,077.jpg,078.jpg,079.jpg,080.jpg,081.jpg,082.jpg,083.jpg,084.jpg,085.jpg,086.jpg,087.jpg,088.jpg,089.jpg,090.jpg,091.jpg,092.jpg,093.jpg,094.jpg,095.jpg,096.jpg,097.jpg,098.jpg,099.jpg,100.jpg
 
 #subcategoria
-nome: 01 - Rosa claro
+nome: Colors | 01 - Rosa claro
 grupo: Baby
 imagens: 1001-I.jpg,1002-I.jpg,1003-I.jpg,1004-I.jpg,1005-I.jpg,1006-I.jpg,1007-I.jpg,1008-I.jpg,1009-I.jpg,1010-I.jpg,1011-I.jpg,1012-I.jpg,1013-I.jpg,1014-I.jpg,1015-I.jpg,1016-I.jpg,1017-I.jpg,1018-I.jpg,1019-I.jpg,1020-I.jpg,1021-I.jpg,1022-I.jpg,1023-I.jpg,1024-I.jpg,1025-I.jpg,1026-I.jpg,1027-I.jpg,1028-I.jpg,1029-I.jpg,1030-I.jpg,1031-I.jpg,1032-I.jpg,1033-I.jpg,1034-I.jpg,1035-I.jpg,1036-I.jpg,1037-I.jpg,1038-I.jpg,1039-I.jpg,1040-I.jpg,1041-I.jpg,1042-I.jpg,1043-I.jpg,1044-I.jpg,1045-I.jpg,1046-I.jpg,1047-I.jpg,1048-I.jpg,1049-I.jpg,1050-I.jpg,
 
 #subcategoria
-nome: 02 - Rosa escuro
+nome: Colors | 02 - Rosa escuro
 grupo: Baby
 imagens: 1001-J.jpg,1002-J.jpg,1003-J.jpg,1004-J.jpg,1005-J.jpg,1006-J.jpg,1007-J.jpg,1008-J.jpg,1009-J.jpg,1010-J.jpg,1011-J.jpg,1012-J.jpg,1013-J.jpg,1014-J.jpg,1015-J.jpg,1016-J.jpg,1017-J.jpg,1018-J.jpg,1019-J.jpg,1020-J.jpg,1021-J.jpg,1022-J.jpg,1023-J.jpg,1024-J.jpg,1025-J.jpg,1026-J.jpg,1027-J.jpg,1028-J.jpg,1029-J.jpg,1030-J.jpg,1031-J.jpg,1032-J.jpg,1033-J.jpg,1034-J.jpg,1035-J.jpg,1036-J.jpg,1037-J.jpg,1038-J.jpg,1039-J.jpg,1040-J.jpg,1041-J.jpg,1042-J.jpg,1043-J.jpg,1044-J.jpg,1045-J.jpg,1046-J.jpg,1047-J.jpg,1048-J.jpg,1049-J.jpg,1050-J.jpg
 
 #subcategoria
-nome: 03 - Laranja
+nome: Colors | 03 - Laranja
 grupo: Baby
 imagens: 1001-K.jpg,1002-K.jpg,1003-K.jpg,1004-K.jpg,1005-K.jpg,1006-K.jpg,1007-K.jpg,1008-K.jpg,1009-K.jpg,1010-K.jpg,1011-K.jpg,1012-K.jpg,1013-K.jpg,1014-K.jpg,1015-K.jpg,1016-K.jpg,1017-K.jpg,1018-K.jpg,1019-K.jpg,1020-K.jpg,1021-K.jpg,1022-K.jpg,1023-K.jpg,1024-K.jpg,1025-K.jpg,1026-K.jpg,1027-K.jpg,1028-K.jpg,1029-K.jpg,1030-K.jpg,1031-K.jpg,1032-K.jpg,1033-K.jpg,1034-K.jpg,1035-K.jpg,1036-K.jpg,1037-K.jpg,1038-K.jpg,1039-K.jpg,1040-K.jpg,1041-K.jpg,1042-K.jpg,1043-K.jpg,1044-K.jpg,1045-K.jpg,1046-K.jpg,1047-K.jpg,1048-K.jpg,1049-K.jpg,1050-K.jpg
 
 #subcategoria
-nome: 04 - Amarelo
+nome: Colors | 04 - Amarelo
 grupo: Baby
 imagens: 1001-L.jpg,1002-L.jpg,1003-L.jpg,1004-L.jpg,1005-L.jpg,1006-L.jpg,1007-L.jpg,1008-L.jpg,1009-L.jpg,1010-L.jpg,1011-L.jpg,1012-L.jpg,1013-L.jpg,1014-L.jpg,1015-L.jpg,1016-L.jpg,1017-L.jpg,1018-L.jpg,1019-L.jpg,1020-L.jpg,1021-L.jpg,1022-L.jpg,1023-L.jpg,1024-L.jpg,1025-L.jpg,1026-L.jpg,1027-L.jpg,1028-L.jpg,1029-L.jpg,1030-L.jpg,1031-L.jpg,1032-L.jpg,1033-L.jpg,1034-L.jpg,1035-L.jpg,1036-L.jpg,1037-L.jpg,1038-L.jpg,1039-L.jpg,1040-L.jpg,1041-L.jpg,1042-L.jpg,1043-L.jpg,1044-L.jpg,1045-L.jpg,1046-L.jpg,1047-L.jpg,1048-L.jpg,1049-L.jpg,1050-L.jpg
 
 #subcategoria
-nome: 05 - Verde Turquesa
+nome: Colors | 05 - Verde Turquesa
 grupo: Baby
 imagens: 1001-M.jpg,1002-M.jpg,1003-M.jpg,1004-M.jpg,1005-M.jpg,1006-M.jpg,1007-M.jpg,1008-M.jpg,1009-M.jpg,1010-M.jpg,1011-M.jpg,1012-M.jpg,1013-M.jpg,1014-M.jpg,1015-M.jpg,1016-M.jpg,1017-M.jpg,1018-M.jpg,1019-M.jpg,1020-M.jpg,1021-M.jpg,1022-M.jpg,1023-M.jpg,1024-M.jpg,1025-M.jpg,1026-M.jpg,1027-M.jpg,1028-M.jpg,1029-M.jpg,1030-M.jpg,1031-M.jpg,1032-M.jpg,1033-M.jpg,1034-M.jpg,1035-M.jpg,1036-M.jpg,1037-M.jpg,1038-M.jpg,1039-M.jpg,1040-M.jpg,1041-M.jpg,1042-M.jpg,1043-M.jpg,1044-M.jpg,1045-M.jpg,1046-M.jpg,1047-M.jpg,1048-M.jpg,1049-M.jpg,1050-M.jpg
 
 #subcategoria
-nome: 06 - Verde Água
+nome: Colors | 06 - Verde Água
 grupo: Baby
 imagens: 1001-N.jpg,1002-N.jpg,1003-N.jpg,1004-N.jpg,1005-N.jpg,1006-N.jpg,1007-N.jpg,1008-N.jpg,1009-N.jpg,1010-N.jpg,1011-N.jpg,1012-N.jpg,1013-N.jpg,1014-N.jpg,1015-N.jpg,1016-N.jpg,1017-N.jpg,1018-N.jpg,1019-N.jpg,1020-N.jpg,1021-N.jpg,1022-N.jpg,1023-N.jpg,1024-N.jpg,1025-N.jpg,1026-N.jpg,1027-N.jpg,1028-N.jpg,1029-N.jpg,1030-N.jpg,1031-N.jpg,1032-N.jpg,1033-N.jpg,1034-N.jpg,1035-N.jpg,1036-N.jpg,1037-N.jpg,1038-N.jpg,1039-N.jpg,1040-N.jpg,1041-N.jpg,1042-N.jpg,1043-N.jpg,1044-N.jpg,1045-N.jpg,1046-N.jpg,1047-N.jpg,1048-N.jpg,1049-N.jpg,1050-N.jpg
-
